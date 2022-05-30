@@ -1,0 +1,32 @@
+id: I6CCC6CAF
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T21:04:30.047266'
+last_modified: '2022-05-30T21:04:30.047284'
+parser: null
+source_metadata:
+  title: Jampal Dewe Nyima Series
+  language: bo
+  description: 'Texts by and about Khenchen Jampal Dewe Nyima (''jam dpal bde ba''i
+    nyi ma) alias Gyurme Pendé Özer, the younger brother of Tertön Rangrik Dorje and
+    teacher of Dudjom Rinpoche:'
+  volume:
+    fD453:
+      title: Prayer to the Lineage of Lumorab
+      base_file: fD453.txt
+      order: 1
+      parent: Lineage Prayers
+    f6D8D:
+      title: The Meaning of the Six Syllables of the King of Vidyā-Mantras, the Heroic
+        Lord Mañjuśrī
+      base_file: f6D8D.txt
+      order: 2
+      parent: Mantra
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
